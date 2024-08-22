@@ -1,0 +1,20 @@
+.menu-bg a{
+padding-right: 50px !important;
+font-size: 16px !important;
+color: black;
+text-decoration: none;
+}
+.menu-bg a:hover{
+    color: #EA580C !important;
+}
+.but{
+    color:black !important;
+    border-radius: 10px !important;
+    border: 2px solid #EA580C !important;
+    font-size: 16px !important;
+   
+}
+.but:hover{
+    background-color: #EA580C !important;
+    color: white !important;
+}

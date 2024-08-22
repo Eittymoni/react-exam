@@ -1,0 +1,12 @@
+#service{
+    padding: 100px;
+}
+.service-card{
+    background-color: #FDEDE8;
+    border-radius: 10px;
+    padding: 10px;
+}
+.card-inner{
+    border-right: 1px solid #FAD0BC;
+
+}
